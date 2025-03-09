@@ -1,4 +1,4 @@
-#**Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation
+**Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation**
 In this project, we developed a recursive-descent parser that translates programs written in
 the GILLES language into LLVM Intermediate Representation (LLVM IR). This work highlights the
 process of building a simple compiler, from parsing high-level constructs to generating efficient
