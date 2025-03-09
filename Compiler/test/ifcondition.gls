@@ -1,0 +1,8 @@
+LET ProgramName BE
+IN(x):
+IF {x <= 5} THEN
+    y = 10:
+ELSE
+    y = 0:
+END:
+END

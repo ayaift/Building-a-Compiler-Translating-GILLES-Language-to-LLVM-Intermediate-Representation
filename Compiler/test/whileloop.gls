@@ -1,0 +1,6 @@
+LET ProgramName BE
+IN(x):
+WHILE {x < 10} REPEAT
+    x = x + 1:
+END:
+END

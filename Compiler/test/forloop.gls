@@ -1,0 +1,6 @@
+LET ForName BE
+IN(x):  
+FOR i = 0 < 24 DO
+    x = x + 1:
+END:
+END
